@@ -2,3 +2,4 @@ Nombre: Juan David Villamizar Gelves
 edad: 20 años
 aspiraciones con respecto a la materia: espero aprender bastante sobre la programnacion orientada a objetos
 y la aplicaciones de este paradigma de programacion
+ahora si podemos subir la carpeta puesto que ya no se encuentra vacia, una condicion necesaria para crear un commit y subirla
