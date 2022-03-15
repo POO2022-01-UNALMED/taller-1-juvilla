@@ -1,0 +1,4 @@
+Nombre: Juan David Villamizar Gelves
+edad: 20 años
+aspiraciones con respecto a la materia: espero aprender bastante sobre la programnacion orientada a objetos
+y la aplicaciones de este paradigma de programacion
