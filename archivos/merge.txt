@@ -1,0 +1,1 @@
+ahora si podemos subir la carpeta puesto que ya no se encuentra vacia, una condicion necesaria para crear un commit y subirla
