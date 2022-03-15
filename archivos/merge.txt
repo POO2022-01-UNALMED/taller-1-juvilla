@@ -1,1 +1,0 @@
-Con respecto a la carpeta de archivos, veamos que ahora si podemos subirla, puesto que la carpeta ya no esta vacia lo cual abre la posibilidad de crear un commit y subirla
